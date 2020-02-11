@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-weight: 3
+weight: 1
 ---
 
 # **About Me**
@@ -13,7 +13,7 @@ Hi I am **{{ site.author.name }}** :wave:,<br>
 
 * Currently 3rd year Ph.D. student at Dr. [Wenfei Wu](https://wenfei-wu.github.io)’s lab in *Tsinghua University*
 
-* Research interest in ***networking function virtualization***(modeling, orchestration, verification), ***network management*** and ***emerging programmable hardware (P4)*** for redefining network
+* Research interest in ***networking function virtualization*** (modeling, orchestration, verification), ***network management*** and ***emerging programmable hardware (P4)*** for redefining network
 
 * Following newly overlaps between ***AI technologies*** and ***networking***
 

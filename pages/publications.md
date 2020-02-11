@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications/
-weight: 4 
+weight: 3
 ---
  
 1. Minglai Shao, Jianxin Li, Qiben Yan, Feng Chen, *Hongyi Huang* and Xunxun Chen. 2020. ***Structured Sparsity Model Based Trajectory Tracking Using Private Location Data Release.*** In IEEE Transactions on Dependable and Secure Computing (**TDSC**).
