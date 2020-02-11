@@ -13,9 +13,9 @@ Hi I am **{{ site.author.name }}** :wave:,<br>
 
 * Currently 3rd year Ph.D. student at Dr. [Wenfei Wu](https://wenfei-wu.github.io)’s lab in *Tsinghua University*
 
-* Research interest in ***networking function virtualization***(modeling, orchestration, verification), ***network management*** and ***emerging P4*** towards network improvement
+* Research interest in ***networking function virtualization***(modeling, orchestration, verification), ***network management*** and ***emerging programmable hardware (P4)*** for redefining network
 
-* Following newly interconnections between ***AI technologies and networking***
+* Following newly overlaps between ***AI technologies*** and ***networking***
 
   >  More information from [my CV]({{https://hongyi-huang.github.io}}/files/test.pdf) 
 
