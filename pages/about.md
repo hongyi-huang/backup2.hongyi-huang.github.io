@@ -17,7 +17,7 @@ Hi I am **{{ site.author.name }}** :wave:,<br>
 
   >  More information from [my CV]({{https://hongyi-huang.github.io}}/files/test.pdf) This Link is invalid temporarily.
 
-# **Education**
+## **Education**
 
 <div class="row">
 {% include about/timeline.html %}
