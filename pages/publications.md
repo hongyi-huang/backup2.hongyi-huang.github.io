@@ -5,7 +5,7 @@ permalink: /publications/
 weight: 3
 ---
  
-1. Minglai Shao, Jianxin Li, Qiben Yan, Feng Chen, *Hongyi Huang* and Xunxun Chen. 2020. ***Structured Sparsity Model Based Trajectory Tracking Using Private Location Data Release.*** In IEEE Transactions on Dependable and Secure Computing (**TDSC**).
+1. Minglai Shao, Jianxin Li, Qiben Yan, Feng Chen, *Hongyi Huang* and Xunxun Chen. 2020. ***Structured Sparsity Model Based Trajectory Tracking Using Private Location Data Release.*** In IEEE Transactions on Dependable and Secure Computing (**TDSC**). [[Preprint]](https://ieeexplore.ieee.org/document/8986753)
 
 2. *Hongyi Huang* and Wenfei Wu. 2019. ***NFD: Using Behavior Models to Develop Cross-Platform NFs.*** In Proceedings of the ACM SIGCOMM 2019 Conference Posters and Demos (**SIGCOMM Posters and Demos '19**).  [[pdf]]({{https://hongyi-huang.github.io}}/files/NFD_sigcomm19.pdf)
 
