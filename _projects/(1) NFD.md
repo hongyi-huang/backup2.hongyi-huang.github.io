@@ -7,4 +7,4 @@ description: This project aims to always retain compatibilities regardless of an
 
 # Cross-platform NFV Development
 
-This project proposes NF abstractions for rapid development of portable NFs targeting incompatibility between NF logical development and runtime environment. You can refer to Sigcomm'19 Poster [[pdf]]({{https://hongyi-huang.github.io}}/files/NFD_sigcomm19.pdf). Full paper is under submission. 
+This project proposes NF abstractions for rapid development of portable NFs targeting incompatibility between NF logical development and runtime environment. You can refer to Sigcomm'19 Poster [[pdf]]({{https://hongyi-huang.github.io}}/files/NFD_sigcomm19.pdf). Full paper is under review. 
